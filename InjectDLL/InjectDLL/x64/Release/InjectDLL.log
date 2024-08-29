@@ -1,0 +1,15 @@
+﻿  dllmain.cpp
+C:\Users\misiu\source\repos\InjectDLL\InjectDLL\dllmain.cpp(55,11): warning C4311: 'type cast': pointer truncation from 'FARPROC' to 'DWORD'
+C:\Users\misiu\source\repos\InjectDLL\InjectDLL\dllmain.cpp(55,11): warning C4302: 'type cast': truncation from 'FARPROC' to 'DWORD'
+C:\Users\misiu\source\repos\InjectDLL\InjectDLL\dllmain.cpp(56,11): warning C4311: 'type cast': pointer truncation from 'void *' to 'DWORD'
+C:\Users\misiu\source\repos\InjectDLL\InjectDLL\dllmain.cpp(56,11): warning C4302: 'type cast': truncation from 'void *' to 'DWORD'
+C:\Users\misiu\source\repos\InjectDLL\InjectDLL\dllmain.cpp(57,23): warning C4312: 'type cast': conversion from 'unsigned long' to 'DWORD *' of greater size
+C:\Users\misiu\source\repos\InjectDLL\InjectDLL\dllmain.cpp(67,29): warning C4311: 'type cast': pointer truncation from 'FARPROC' to 'DWORD'
+C:\Users\misiu\source\repos\InjectDLL\InjectDLL\dllmain.cpp(67,29): warning C4302: 'type cast': truncation from 'FARPROC' to 'DWORD'
+C:\Users\misiu\source\repos\InjectDLL\InjectDLL\dllmain.cpp(67,20): warning C4312: 'type cast': conversion from 'DWORD' to 'DWORD *' of greater size
+  Generating code
+  3 of 6 functions (50.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  InjectDLL.vcxproj -> C:\Users\misiu\source\repos\InjectDLL\InjectDLL\x64\Release\InjectDLL.dll

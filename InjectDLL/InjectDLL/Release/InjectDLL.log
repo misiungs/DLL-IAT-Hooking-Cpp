@@ -1,0 +1,7 @@
+﻿  dllmain.cpp
+  Generating code
+  91 of 310 functions (29.4%) were compiled, the rest were copied from previous compilation.
+    72 functions were new in current compilation
+    50 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  InjectDLL.vcxproj -> C:\Users\misiu\source\repos\InjectDLL\InjectDLL\Release\InjectDLL.dll
